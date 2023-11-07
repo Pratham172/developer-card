@@ -20,6 +20,9 @@ function App() {
                 <Details />
             </div>
             <SocialLink />
+            <div className='footer-container'>
+                <footer>© Pratham172, Inc. 2023. All rights reserved.</footer>
+            </div>
         </main>
     );
 }
